@@ -9,3 +9,4 @@
 - Programmers 3 부대복귀 / 2023-01-16
 - Programmers 2 H-Index / 2023-01-16
 - Programmers 2 행렬곱셈 / 2023-01-16
+- Programmers 2 괄호 회전하기 / 2023-01-16
