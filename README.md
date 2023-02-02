@@ -13,3 +13,4 @@
 - Programmers 2 위장 / 2023-01-20
 - Programmers 2 튜플 / 2023-01-20
 - Programmers 2 기능개발 / 2023-02-02
+- Programmers 2 n^2 배열 자르기 / 2023-02-02
